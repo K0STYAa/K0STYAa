@@ -13,7 +13,7 @@
 Привет, меня зовут Шалавин Константин, я студент 4 курса ВМК МГУ. Сейчас учусь на ИТ-специалиста.
 
 <br />
-![Image text](https://github.com/K0STYAa/K0STYAa/gopher.png)
+![Image text](https://github.com/K0STYAa/K0STYAa/blob/main/gopher.png)
 
 **Languages and Tools:**  
 
