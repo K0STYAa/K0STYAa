@@ -11,7 +11,7 @@
 
 <br />
 <br />
-Привет, меня зовут Шалавин Константин, я выпускник ВМК МГУ. Работаю системным разработчиком в mail.ru
+Hi, my name is Konstantin Shalavin, I am a graduate of the Lomonosov Moscow State University. I work as a System Engineer in @mail.ru
 
 **Languages and Tools:**  
 
