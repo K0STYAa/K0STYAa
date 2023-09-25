@@ -12,7 +12,9 @@
 <br />
 <br />
 Hi, my name is Konstantin Shalavin.
+<br />
 I am a graduate of the Lomonosov Moscow State University. 
+<br />
 I work as a System Engineer in mail.ru
 
 **Languages and Tools:**  
