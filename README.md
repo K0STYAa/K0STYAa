@@ -11,7 +11,7 @@
 
 <br />
 <br />
-Hi, my name is Konstantin Shalavin, I am a graduate of the Lomonosov Moscow State University. I work as a System Engineer in @mail.ru
+Hi, my name is Konstantin Shalavin, I am a graduate of the Lomonosov Moscow State University. I work as a System Engineer in mail.ru
 
 **Languages and Tools:**  
 
